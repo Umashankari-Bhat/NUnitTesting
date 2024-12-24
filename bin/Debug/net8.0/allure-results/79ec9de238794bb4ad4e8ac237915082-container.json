@@ -1,0 +1,12 @@
+{
+  "uuid": "0249f410-5565-4e47-968c-5901cc44c6a8",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.DropDown",
+  "children": [
+    "3e2ad9a9-2dc5-4655-9b8c-c80eee8c0739"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734595869171,
+  "stop": 1734595869334
+}

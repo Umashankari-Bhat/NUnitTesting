@@ -1,0 +1,12 @@
+{
+  "uuid": "96f84b0b-1807-4f74-b0d1-2d6bce5a7155",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.InvokeChrome.testcase1",
+  "children": [
+    "7741252c-f506-49fd-b7a3-688c1a94eb86"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734606492708,
+  "stop": 1734606500206
+}

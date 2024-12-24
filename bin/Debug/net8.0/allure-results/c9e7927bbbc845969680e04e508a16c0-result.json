@@ -1,0 +1,56 @@
+{
+  "uuid": "327ec07b-fc7d-4ef3-8e39-1aaff6e34991",
+  "historyId": "93d1fdce72c9102100fb4d5785c175d7",
+  "testCaseId": "da140f204ce07fbcbd3a4c278b7e60b7",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.ParallelExecutionsnew.testcase2()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#20"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase2"
+    },
+    {
+      "name": "testClass",
+      "value": "ParallelExecutionsnew"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase2",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.WebDriverException : Tried to run command without establishing a connection\r\nTearDown : OpenQA.Selenium.WebDriverException : Tried to run command without establishing a connection",
+    "trace": "   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.InternalExecute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebElement.Click()\r\n   at TestProjectNunitTraining.SeleniumnewC_.ParallelExecutionsnew.testcase2() in C:\\Users\\ubhat\\source\\repos\\TestProjectNunitTraining\\TestProjectNunitTraining\\SeleniumnewC#\\ParallelExecutionsnew.cs:line 77\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)\r\n--TearDown\r\n   at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)\r\n   at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)\r\n   at OpenQA.Selenium.WebDriver.Close()\r\n   at TestProjectNunitTraining.SeleniumnewC_.ParallelExecutionsnew.Closebrowser() in C:\\Users\\ubhat\\source\\repos\\TestProjectNunitTraining\\TestProjectNunitTraining\\SeleniumnewC#\\ParallelExecutionsnew.cs:line 88\r\n   at InvokeStub_ParallelExecutionsnew.Closebrowser(Object, Object, IntPtr*)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734592434966,
+  "stop": 1734592459600
+}

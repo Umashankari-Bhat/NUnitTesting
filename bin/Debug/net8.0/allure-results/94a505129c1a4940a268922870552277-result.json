@@ -1,0 +1,49 @@
+{
+  "uuid": "7859d8cb-eb6a-4995-a47e-416a4cdb3106",
+  "historyId": "5eba722a951d24a9cc1fbb2473ba6c59",
+  "testCaseId": "0a112765133feeb7920c09e50907ed78",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.InvokeChrome.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "InvokeChrome"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734591357573,
+  "stop": 1734591364559
+}

@@ -1,0 +1,51 @@
+{
+  "uuid": "fe6e30f9-560d-4898-a576-5e7dacbf5abc",
+  "historyId": "3ec6e3249c3ed2c31b6b51e0a3a8a558",
+  "testCaseId": "7c1050dac1a93ca7b9662ca350a86755",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.InvokeFirefox.TestCase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestCase1"
+    },
+    {
+      "name": "testClass",
+      "value": "InvokeFirefox"
+    }
+  ],
+  "links": [],
+  "name": "TestCase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "dbe19094-71f1-4558-b552-e6b642d570be-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734591364571,
+  "stop": 1734591380164
+}

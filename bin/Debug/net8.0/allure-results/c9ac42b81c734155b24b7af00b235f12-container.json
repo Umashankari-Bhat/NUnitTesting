@@ -1,0 +1,12 @@
+{
+  "uuid": "38769bbf-708f-47e7-88f0-6a735724f11e",
+  "name": "TestProjectNunitTraining.NunitTests.AllureReportGen.userreg",
+  "children": [
+    "bfa03c2e-2b45-4e3d-b4c5-daac395e44c1"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734066785243,
+  "stop": 1734066785249
+}

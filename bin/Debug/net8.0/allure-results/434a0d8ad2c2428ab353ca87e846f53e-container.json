@@ -1,0 +1,12 @@
+{
+  "uuid": "2efdbfd7-ad67-45f3-b877-316317744d3a",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.Alerts",
+  "children": [
+    "abb39904-f75a-4110-b890-c00a1b6f3e3c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591139171,
+  "stop": 1734591158211
+}

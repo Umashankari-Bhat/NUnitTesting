@@ -1,0 +1,12 @@
+{
+  "uuid": "93c02d75-8ad8-4291-b8fd-665061b068d7",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.InvokeFirefox",
+  "children": [
+    "fe6e30f9-560d-4898-a576-5e7dacbf5abc"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591364571,
+  "stop": 1734591380182
+}

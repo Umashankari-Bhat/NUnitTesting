@@ -1,0 +1,12 @@
+{
+  "uuid": "3fada2de-580f-43ac-904f-f987afae9e89",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.ActionsEg",
+  "children": [
+    "a765e744-b22d-49af-a25b-c5776fd3c253"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591113680,
+  "stop": 1734591139168
+}

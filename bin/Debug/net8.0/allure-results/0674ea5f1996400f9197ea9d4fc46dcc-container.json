@@ -1,0 +1,12 @@
+{
+  "uuid": "0fffde88-5cfe-4937-891d-b7ef2ff1d380",
+  "name": "TestProjectNunitTraining.NunitTests.AllureReportGen.Addtocart",
+  "children": [
+    "2e8f9d82-47c0-493b-9d16-8121709cabd2"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734066180885,
+  "stop": 1734066180915
+}

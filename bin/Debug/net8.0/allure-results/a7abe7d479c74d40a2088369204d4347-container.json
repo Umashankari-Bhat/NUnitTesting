@@ -1,0 +1,12 @@
+{
+  "uuid": "bf0761d4-31cd-4c24-9769-72c72c6322e1",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.DoubbleClick.testcase1",
+  "children": [
+    "3264b440-7f75-4cc7-a903-3b0b172586af"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591180496,
+  "stop": 1734591202917
+}

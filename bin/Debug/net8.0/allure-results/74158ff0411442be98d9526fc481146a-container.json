@@ -1,0 +1,12 @@
+{
+  "uuid": "83e15f92-df2b-4c84-bdd5-933d177ca21f",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.ParallelExecutionsnew.testcase1",
+  "children": [
+    "f3997900-8445-47a5-a68a-9f22bde66943"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734592108420,
+  "stop": 1734592131170
+}

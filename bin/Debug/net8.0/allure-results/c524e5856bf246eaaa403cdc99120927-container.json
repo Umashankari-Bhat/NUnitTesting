@@ -1,0 +1,12 @@
+{
+  "uuid": "c7b21488-d26d-4b2e-b5eb-7f1dd40e58fe",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.FileDownload.testcase1",
+  "children": [
+    "9e6598a0-d0aa-4283-80db-b2cc9c0958ca"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591829717,
+  "stop": 1734591848126
+}

@@ -1,0 +1,55 @@
+{
+  "uuid": "b655e1b8-7058-4ff6-9afa-03078bccf151",
+  "historyId": "170132cbc8c3099fe896e99110a380d0",
+  "testCaseId": "8e8c30eaa2f1655f5912bc41d1508fb1",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.DoubbleClick.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "DoubbleClick"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "7074eef5-b192-4669-b0da-449180c5bd5d-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734606351908,
+  "stop": 1734606373865
+}

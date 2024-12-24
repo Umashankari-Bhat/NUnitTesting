@@ -1,0 +1,52 @@
+{
+  "uuid": "5b570394-b23c-4a01-8ee1-f62388427a46",
+  "historyId": "2f25820c998762eeb44f72a3fdd3e1c5",
+  "testCaseId": "8b28c0b08d3e483ef211df1e4d6c1e2c",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.DropDown.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "DropDown"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.NullReferenceException : Object reference not set to an instance of an object.",
+    "trace": "   at TestProjectNunitTraining.SeleniumnewC_.DropDown.testcase1() in C:\\Users\\ubhat\\source\\repos\\TestProjectNunitTraining\\TestProjectNunitTraining\\SeleniumnewC#\\DropDown.cs:line 42\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734596029047,
+  "stop": 1734596029127
+}

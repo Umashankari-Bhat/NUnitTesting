@@ -1,0 +1,12 @@
+{
+  "uuid": "f176ea84-d72c-49a4-b2f6-097b56360896",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.FramesEg",
+  "children": [
+    "54e64d4c-d390-4fe5-a526-6192715df683"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734606472788,
+  "stop": 1734606492704
+}

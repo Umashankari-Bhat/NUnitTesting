@@ -1,0 +1,49 @@
+{
+  "uuid": "e15ee958-bf5c-4737-90ee-b03751342559",
+  "historyId": "bcba90d597374378a4edd5947e6abd68",
+  "testCaseId": "b2c286b5de6e3676d5d2c463d1692dc0",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.FramesEg.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "FramesEg"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734591338668,
+  "stop": 1734591357568
+}

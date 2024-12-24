@@ -1,0 +1,16 @@
+{
+  "uuid": "538a8775-ed97-464a-9876-3060814956f4",
+  "name": "TestProjectNunitTraining.NunitTests.AllureReportGen",
+  "children": [
+    "9723f932-b36d-42d8-acb0-66c543edec2f",
+    "3c1613cc-ba40-45f8-824c-a3065a3ea911",
+    "b85be9c8-ffbf-42c5-bc56-e3a95c7a80fd",
+    "af71ffd6-d986-4ef9-8e36-945a2fa86173",
+    "1498e9bd-4266-4040-9307-6ce5f8c95e1c"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734331713836,
+  "stop": 1734331713924
+}

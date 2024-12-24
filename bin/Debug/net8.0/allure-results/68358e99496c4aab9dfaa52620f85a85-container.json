@@ -1,0 +1,12 @@
+{
+  "uuid": "67f7ff7c-5a11-40e9-8a5a-0860a1bd79a7",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.FileUpload.testcase1",
+  "children": [
+    "154525d6-87b3-411c-9848-90b81cd3b085"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591317707,
+  "stop": 1734591338662
+}

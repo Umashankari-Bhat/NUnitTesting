@@ -1,0 +1,12 @@
+{
+  "uuid": "85235867-c59e-44fe-b906-7c1fae653093",
+  "name": "TestProjectNunitTraining.NunitTests.AllureReportGen.payment",
+  "children": [
+    "ce5e1b62-0f17-4b61-9706-dceb9ce1cf9e"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734066006343,
+  "stop": 1734066006355
+}

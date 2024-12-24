@@ -1,0 +1,12 @@
+{
+  "uuid": "f7798c8b-8efa-414d-a1ee-3dad5ef52d2a",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.AmazonClick.testcase1",
+  "children": [
+    "07e0ddf3-05f8-41ec-bcbd-ae88bcad1937"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734591158215,
+  "stop": 1734591180492
+}

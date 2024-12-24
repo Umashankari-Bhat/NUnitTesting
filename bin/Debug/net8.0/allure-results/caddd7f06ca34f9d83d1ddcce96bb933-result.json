@@ -1,0 +1,55 @@
+{
+  "uuid": "c3ecfbcb-39bc-4284-a2e0-7719a6c73c53",
+  "historyId": "e1dc3edd2f62048bc064ca16ee911aa3",
+  "testCaseId": "6d149877d7b05af4e7d60b9fadf5ed7c",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.Alerts.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "Alerts"
+    },
+    {
+      "name": "tag",
+      "value": "Sanity"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "54d260b4-d434-4ac2-81b9-dd9f75a7df97-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1734606312482,
+  "stop": 1734606331740
+}

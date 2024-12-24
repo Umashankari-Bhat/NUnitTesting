@@ -1,0 +1,49 @@
+{
+  "uuid": "a765e744-b22d-49af-a25b-c5776fd3c253",
+  "historyId": "4c68d8001f098ea6a15154b900db5a30",
+  "testCaseId": "8aa05764dc3e252381b51d1cacf167ac",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.ActionsEg.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "ActionsEg"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734591113680,
+  "stop": 1734591139158
+}

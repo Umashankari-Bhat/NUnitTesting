@@ -1,0 +1,49 @@
+{
+  "uuid": "5c949204-f991-4d22-a38c-1e4c4b5814a1",
+  "historyId": "794d770bc000b07cdef79b210fd8c0f1",
+  "testCaseId": "f762ad53a3a14c5f33d62cd37d417d44",
+  "fullName": "TestProjectNunitTraining:TestProjectNunitTraining.SeleniumnewC_.AmazonClick.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOTY35UWRM5SL"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectNunitTraining.SeleniumnewC_"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "AmazonClick"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734606331753,
+  "stop": 1734606351896
+}

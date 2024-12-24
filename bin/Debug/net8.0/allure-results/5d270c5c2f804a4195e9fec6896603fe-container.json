@@ -1,0 +1,12 @@
+{
+  "uuid": "9a1e84e4-dd54-41b3-9d24-a101fd6b036b",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.EndtoEnd.testcase1",
+  "children": [
+    "092b8245-1a41-4ca0-980c-f6ea754c6841"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734606392612,
+  "stop": 1734606452108
+}

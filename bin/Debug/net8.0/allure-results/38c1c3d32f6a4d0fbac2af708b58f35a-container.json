@@ -1,0 +1,12 @@
+{
+  "uuid": "e64d8b0a-6054-43c6-a65a-3d0c77de8464",
+  "name": "TestProjectNunitTraining.SeleniumnewC_.DragandDrop",
+  "children": [
+    "03861fb9-db22-48be-9da4-f1152cbd3c97"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1734606373876,
+  "stop": 1734606392606
+}
